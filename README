@@ -1,0 +1,7 @@
+GEO Tag Me
+==========
+
+Simple tool that reallocates Exif-capable files to "Country/City/Town" folders.
+This tool reads the exif data from pictures and videos, georeference them using GeoPy and OpenStreetMaps.
+
+Main goal is to store data on a location-aware path, for easy pick-up.
